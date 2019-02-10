@@ -29,6 +29,17 @@ Diagram
 
 ----
 
+Some Code
+=========
+
+.. code:: python
+
+    def hello():
+        return "world"
+
+
+----
+
 Any questions?
 ==============
 

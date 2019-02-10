@@ -12,8 +12,7 @@ pre.highlight.code {
 /* left-align code blocks */
 div .code {
   text-align: left;
-  color: white;
-  background-color: #2d2d2d;
+  background-color: #FFF8D8;
   border-radius: 0.5em;
   padding: 1em;
 }
