@@ -1,12 +1,11 @@
-:data-transition-duration: 500
-:skip-help: true
-:css: style.css
 :title: Hovercraft Presentation
-
-----
-
+:css: style.css
+:skip-help: true
+:data-transition-duration: 500
 :data-x: r2000
 :data-y: r0
+
+----
 
 Title
 =====
@@ -18,7 +17,10 @@ Name, Date
 Tux
 ===
 
-|img_tux|
+.. https://commons.wikimedia.org/wiki/File:TUX_G2.svg
+.. Maxo based opoun the work File:Tux-G2.png [Public domain], from Wikimedia Commons
+.. image:: ./img/tux.png
+    :height: 500px
 
 ----
 
@@ -44,11 +46,6 @@ Any questions?
 ==============
 
 .. Begin: Image citations
-
-.. https://commons.wikimedia.org/wiki/File:TUX_G2.svg
-.. Maxo based opoun the work File:Tux-G2.png [Public domain], from Wikimedia Commons
-.. |img_tux| image:: ./img/tux.png
-    :height: 500px
 
 .. Plantuml diagram
 .. |uml_diagram| image:: ./instance/diagram.svg
