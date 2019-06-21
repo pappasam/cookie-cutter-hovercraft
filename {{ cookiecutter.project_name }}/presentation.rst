@@ -1,4 +1,8 @@
-:title: Hovercraft Presentation
+:title: My Great Hovercraft Presentation
+:author: John Doe
+:date: January 1st, 3000
+:abstract: |
+    This is an incredible abstract. Please enjoy reading it!
 :css: style.css
 :skip-help: true
 :data-transition-duration: 500
@@ -10,7 +14,7 @@
 Title
 =====
 
-Name, Date
+This is my super cool title slide!
 
 ----
 
@@ -38,7 +42,6 @@ Some Code
 
     def hello():
         return "world"
-
 
 ----
 
