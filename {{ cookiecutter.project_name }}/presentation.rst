@@ -46,12 +46,12 @@ Tux
 
 :class: left-align
 
-Tmux, from https
-================
+Watch, from https
+=================
 
-.. image:: https://commons.wikimedia.org/wiki/File:TUX_G2.svg
+.. image:: https://upload.wikimedia.org/wikipedia/commons/4/45/MontreGousset001.jpg
     :height: 500px
-    :alt: This image is of Tmux. Pulled straight from the web
+    :alt: By Isabelle Grosjean ZA - Self-published work by ZA, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=144336
 
 .. note::
 
@@ -109,4 +109,4 @@ Any questions?
 
 .. note::
 
-    Make sure you ask for
+    Hopefully there are lots of questions!
