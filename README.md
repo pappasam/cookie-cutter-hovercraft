@@ -4,10 +4,17 @@ This is a cookiecutter template for use with Hovercraft. It is fairly minimal an
 
 ## Dependencies
 
+This was developed on Linux Mint 19.1. The following programs are required to make it run in its development environment.
+
 * [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
 * [poetry](https://poetry.eustace.io/) to manage python dependencies
 * [make](https://www.gnu.org/software/make/) to orchestrate the build
 * [plantuml](http://plantuml.com/) to help with diagrams
+* [pandoc](https://pandoc.org/) to create a PDF
+* [libsvgbin](https://wiki.gnome.org/Projects/LibRsvg) to convert svg images to png (for PDF output)
+* [wget](https://www.gnu.org/software/wget/) to download web assets for offline viewing
+* [pdfnup](https://linux.die.net/man/1/pdfnup) to put more than 1 slide per page
+* [gs](https://linux.die.net/man/1/gs) reduce size of final PDF output
 
 ## Usage
 
