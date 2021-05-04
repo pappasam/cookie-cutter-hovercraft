@@ -55,7 +55,7 @@ build: presentation.rst setup plantuml  ## Build local presentation
 			-V geometry:"paperheight=11in, paperwidth=8.5in, margin=0.75in" \
 			--filter=pandoc-latex-newpage \
 			--pdf-engine=xelatex
-	pdfnup \
+	pdfjam \
 		--nup 2x1 \
 		-o instance/pdfnup.pdf \
 		instance/pandoc.pdf

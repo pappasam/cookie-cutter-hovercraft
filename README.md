@@ -13,7 +13,7 @@ This was developed on Linux Mint 19.1. The following programs are required to ma
 * [pandoc](https://pandoc.org/) to create a PDF
 * [libsvgbin](https://wiki.gnome.org/Projects/LibRsvg) to convert svg images to png (for PDF output)
 * [wget](https://www.gnu.org/software/wget/) to download web assets for offline viewing
-* [pdfnup](https://linux.die.net/man/1/pdfnup) to put more than 1 slide per page
+* [pdfjam](https://github.com/rrthomas/pdfjam) to put more than 1 slide per page
 * [gs](https://linux.die.net/man/1/gs) reduce size of final PDF output
 
 ## Usage
