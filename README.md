@@ -1,6 +1,6 @@
 # Cookie-Cutter template for Hovercraft
 
-This is a cookiecutter template for use with Hovercraft. It is fairly minimal and results in typical slideshow presentation with left to right movement. I think this is an extremely easy way to create a pretty, engaging presentation quickly.
+This is a cookiecutter template for use with [Hovercraft!](https://github.com/regebro/hovercraft). It is fairly minimal and results in typical slideshow presentation with left to right movement. I think this is an extremely easy way to create a pretty, engaging presentation quickly.
 
 ## Dependencies
 
