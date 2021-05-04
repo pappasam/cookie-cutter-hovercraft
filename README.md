@@ -4,7 +4,7 @@ This is a cookiecutter template for use with [Hovercraft!](https://github.com/re
 
 ## Dependencies
 
-This was developed on Linux Mint 19.1. The following programs are required to make it run in its development environment.
+This was developed on Ubuntu 20.04. The following programs are required to make it run in its development environment.
 
 * [cookiecutter](https://cookiecutter.readthedocs.io/en/latest/)
 * [poetry](https://poetry.eustace.io/) to manage python dependencies
